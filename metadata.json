@@ -1,0 +1,7 @@
+{
+  "name": "Sculpa",
+  "description": "Um aplicativo para comparar sua dieta planejada com o consumo diário de alimentos, analisando calorias e proteínas com a ajuda da IA do Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
